@@ -1,0 +1,1 @@
+Place these ini files in /var directory
